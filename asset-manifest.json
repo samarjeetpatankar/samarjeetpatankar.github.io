@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7a219c90.css",
-    "main.js": "/static/js/main.f517da8e.js",
+    "main.js": "/static/js/main.8dd3625f.js",
     "static/js/787.586b53ef.chunk.js": "/static/js/787.586b53ef.chunk.js",
     "static/media/Samarjeet_Patankar_Resume.pdf": "/static/media/Samarjeet_Patankar_Resume.ec4c9855028974df4fb1.pdf",
     "static/media/samarjeet.png": "/static/media/samarjeet.63b464c9cf68608efe9a.png",
     "index.html": "/index.html",
     "main.7a219c90.css.map": "/static/css/main.7a219c90.css.map",
-    "main.f517da8e.js.map": "/static/js/main.f517da8e.js.map",
+    "main.8dd3625f.js.map": "/static/js/main.8dd3625f.js.map",
     "787.586b53ef.chunk.js.map": "/static/js/787.586b53ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a219c90.css",
-    "static/js/main.f517da8e.js"
+    "static/js/main.8dd3625f.js"
   ]
 }
